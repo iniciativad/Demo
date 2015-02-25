@@ -1,0 +1,5 @@
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Domain\bin\Debug\CrediLocal.Domain.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Domain\bin\Debug\CrediLocal.Domain.pdb
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Domain\obj\Debug\CrediLocal.Domain.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Domain\obj\Debug\CrediLocal.Domain.pdb
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Domain\obj\Debug\CrediLocal.Domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\CrediLocal.Infra.Data.dll.config
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\CrediLocal.Infra.Data.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\CrediLocal.Infra.Data.pdb
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\CrediLocal.Domain.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\EntityFramework.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\CrediLocal.Domain.pdb
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\EntityFramework.xml
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\obj\Debug\CrediLocal.Infra.Data.csprojResolveAssemblyReference.cache
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\obj\Debug\CrediLocal.Infra.Data.dll
+G:\Projetos\Visutal Studio 2015\CrediLocal\CrediLocal.Infra.Data\obj\Debug\CrediLocal.Infra.Data.pdb
